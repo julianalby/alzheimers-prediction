@@ -3,4 +3,4 @@ This was a group project where we took a public dataset from Kaggle (https://www
 
 The notebook can be run here on Google Colab: https://colab.research.google.com/drive/1vDl_nG9iRDgXxxX1EgItcM5lZxz7nFiB?usp=sharing#scrollTo=2Jx5TP5FTWpm
 
-The prototype can be accessed through https://db3444d2e9e1.ngrok-free.app — open the link and click **Visit Site**
+The prototype can be accessed through https://db3444d2e9e1.ngrok-free.app — open the link and click **Visit Site** (may not always be available)
